@@ -1301,7 +1301,7 @@ overflow:visible;
 /* section */
 /* ================================================== */
 	section{padding:90px 0 90px 0;}
-	section{background:#18191b;}
+	section{background: #e5e5e5;}
 	
 	section.custom-1{
 	border-bottom-left-radius: 100% 100%;
@@ -3794,7 +3794,7 @@ left: 0;
 	h3,
 	h4,
 	h5{
-	color:#eceff3;
+	color: #000000;
 	}
 	
 	h3.s2 span{
@@ -9817,7 +9817,7 @@ margin-bottom: -3px;
 .separator span:after {
   content: "";
   position: absolute;
-  border-bottom: 1px solid rgba(255,255,255,.1);
+  border-bottom: 1px solid rgb(0 0 0 / 72%);
   top: 5px;
   width: 300px;
 }
